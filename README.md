@@ -4,6 +4,7 @@ Network client api types and logic. WIP
 
 ## todo
 
+* consider moving into `blockchain` pacakge
 * persist data using sql lite
 * clean up "node" notification channels
 * implement tx/block pool logic and retries
